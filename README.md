@@ -1,1 +1,1 @@
-https:/KondratevDima.github.io/rsschool-cv/
+https://github.com/KondratevDima/rsschool-cv/blob/gh-pages/cv.md
