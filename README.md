@@ -1,2 +1,2 @@
 https://KondratevDima.github.io/rsschool-cv/cv
-1
+https://KondratevDima.github.io/rsschool-cv/
